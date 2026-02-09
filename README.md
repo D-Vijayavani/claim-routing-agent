@@ -34,3 +34,7 @@ ACORD forms contain complex layouts and multi-column formatting. Due to OCR unce
 ```bash
 pip install -r requirements.txt
 python3 main.py
+
+
+## Demo Video
+https://drive.google.com/file/d/1uZQ9zlGWmTljW3JidbiR230KopVzZfLA/view?usp=sharing
